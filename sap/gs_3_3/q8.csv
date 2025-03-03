@@ -1,0 +1,8 @@
+Address,First Hexit,Second Hexit,Comments
+1,LDA,6,
+2,SUB,7,
+3,STA,6,
+4,JC,1,
+5,HLT,0,
+6,0,7,X
+7,0,3,Y
