@@ -1,0 +1,12 @@
+Address,First Hexit,Second Hexit,Comments
+0,LDA,13,
+1,SUB,14,
+2,JZ,7,Branch when A == B
+3,LDA,13,~~A -= 1~~
+4,SUB,15,
+5,STA,13,~~A -= 1~~
+6,JMP,1,
+7,HLT,0,
+13,0,15,A
+14,0,10,B
+15,0,1,One

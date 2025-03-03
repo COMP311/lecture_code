@@ -1,0 +1,11 @@
+Address,First Hexit,Second Hexit,Comments
+0,LDA,12,
+1,ADD,13,
+2,STA,14,
+3,LDI,9,
+4,SUB,15,
+5,HLT,0,
+12,0,1,A
+13,0,2,B
+14,0,0,Where A + B is stored
+15,0,9,Number to be subtracted
