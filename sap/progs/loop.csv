@@ -1,0 +1,17 @@
+Address,First Hexit,Second Hexit,Comments
+0,LDI,0,
+1,STA,14,i=0
+2,LDA,13,
+3,ADD,14,
+4,STA,13,A=A+i
+5,LDI,1,
+6,ADD,14,
+7,STA,14,i=i+1
+8,LDA,14,
+9,SUB,15,
+10,JC,12,
+11,JMP,2,
+12,HLT,0,
+13,0,10,A (initial value 10)
+14,0,0,i (initial value 0)
+15,0,2,constant 2
