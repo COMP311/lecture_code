@@ -16,7 +16,7 @@
         </entry>
         <entry>
           <string>Data</string>
-          <data>dead,beef,cafe,c0de,face</data>
+          <data>dead,beef,cafe,c0de,face,f00d</data>
         </entry>
       </elementAttributes>
       <pos x="720" y="160"/>
@@ -49,12 +49,12 @@
       <elementName>Out</elementName>
       <elementAttributes>
         <entry>
-          <string>intFormat</string>
-          <intFormat>hex</intFormat>
-        </entry>
-        <entry>
           <string>Bits</string>
           <int>16</int>
+        </entry>
+        <entry>
+          <string>intFormat</string>
+          <intFormat>hex</intFormat>
         </entry>
       </elementAttributes>
       <pos x="820" y="180"/>
