@@ -1,3 +1,4 @@
 qz*
 venv
 __pycache__
+*.out
