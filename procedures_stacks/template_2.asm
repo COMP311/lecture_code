@@ -1,3 +1,5 @@
+# See mips_control_flow/gs_3_31/function_call2.asm to see how using the stack here resolves the problem there
+
 main:
 	jal proc1
 	j end
