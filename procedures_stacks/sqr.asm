@@ -1,5 +1,6 @@
 .include "../macros.asm"
 
+# Procedure and stack programming example
 # See sqr.c (reference C code)
 # Nothing to implement here
 

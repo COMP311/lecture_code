@@ -1,6 +1,6 @@
 /**
- * Complete code, slightly modified, from lecture
- * Procedure and stack programming example (in-class exercise)
+ * Procedure and stack programming example
+ * See sqr.asm
  * Nothing to implement here
  */
 #include <stdio.h>
